@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Jason!
+# 👋 Hello, I'm Jason David!
 
-Welcome to my GitHub profile! I'm a sophomore at Panimalar Engineering College and a passionate **web developer in the making**. I'm always on the lookout for exciting projects and opportunities to broaden my tech stack and collaborate with others. 🚀
+Welcome to my GitHub profile! I'm a sophomore at Panimalar Engineering College and a passionate **front-end developer in the making**. I'm always on the lookout for exciting projects and opportunities to broaden my tech stack and collaborate with others. 🚀
 
 ---
 
