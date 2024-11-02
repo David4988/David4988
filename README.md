@@ -23,11 +23,11 @@ Welcome to my GitHub profile! I'm a sophomore at Panimalar Engineering College a
   
 ## 📝 Notable Projects
 
+### 🔹 Friendify
+A social media clone of Instagram called *Friendify*, developed using **ReactJS**, **Node.js**, and **Appload**. This project replicates core social media features, although it currently does not include chat or comment options. *Friendify* has helped me deepen my understanding of full-stack development and UI design.
+
 ### 🔹 Tech Haven
 An e-commerce website created for an internship, where I led a team of absolute beginners in developing both front-end and back-end functionalities. This project has been an incredible learning journey in teamwork, problem-solving, and implementing complex web development tasks.
-
-### 🔹 Personal Information System
-A DBMS mini project built with **HTML, CSS, JavaScript, and MongoDB**. This system organizes and manages personal data effectively, enhancing my proficiency in database management and front-end development.
 
 ### 🔹 Corizo Internship Projects
 - **To-Do App**: A task manager built using **HTML, CSS, and JavaScript**.
