@@ -56,7 +56,7 @@ Feel free to reach out if you'd like to collaborate on a project, discuss new te
 
 ## 📫 Let's Connect
 
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/jasondavid4988)
 - **Email**: your.email@example.com
 
 Thanks for stopping by!
