@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm a sophomore at Panimalar Engineering College a
   - Oracle Cloud Infrastructure 2024 Generative AI Certified Professional
   - AWS Cloud Practitioner Essentials
   - Aptis ESOL Certificate (Overall Grade: C)
+  - Japanese Language Proficiency Test
 
 ---
 ## GSSOC(24) Badges 🪶
