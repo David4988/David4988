@@ -43,7 +43,7 @@ An e-commerce website created for an internship, where I led a team of absolute 
 
 ## 🌐 Tech Community
 
-- **Toastmaster**: I've improved my communication and leadership skills as a Toastmaster, especially as a **Table Topics Master**.
+- **Toastmaster**: I've improved my communication and leadership skills as a Toastmaster.
 - **Hackathon Enthusiast**: Recently participated in a hackathon with my team to create a **Plagiarism Checker Website** for teachers. Although we didn't make it to the qualifiers, the experience was invaluable.
 
 ---
