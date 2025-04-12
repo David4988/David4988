@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a sophomore at Panimalar Engineering College a
 
 ## 🛠 Skills & Certifications
 
-- **Languages & Tools**: JavaScript, HTML, CSS, SCSS, ReactJS, TailwindCSS, MongoDB
+- **Languages & Tools**: HTML, CSS, JavaScript, SCSS, ReactJS, TailwindCSS, MongoDB, Firebase
 - **API Development**: Certified Postman API Fundamentals Student Expert, with hands-on experience in **REST API** development.
 - **Certifications**:
   - Oracle Cloud Infrastructure 2024 Generative AI Certified Professional
