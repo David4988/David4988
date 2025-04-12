@@ -29,11 +29,14 @@ Welcome to my GitHub profile! I'm a sophomore at Panimalar Engineering College a
   
 ## 📝 Notable Projects
 
-### 🔹 Friendify
+### 🔹 Friendify - [friendify](https://friendify-phi.vercel.app)
 A social media clone of Instagram called *Friendify*, developed using **ReactJS**, **Node.js**, and **Appload**. This project replicates core social media features, although it currently does not include chat or comment options. *Friendify* has helped me deepen my understanding of full-stack development and UI design.
 
 ### 🔹 Tech Haven
 An e-commerce website created for an internship, where I led a team of absolute beginners in developing both front-end and back-end functionalities. This project has been an incredible learning journey in teamwork, problem-solving, and implementing complex web development tasks.
+
+### 🔹 Innovators Hub Music - [innovators-hub-music](https://innovators-hub-music-1bc35.web.app/)
+A full-featured music streaming web app built using ReactJS and Firebase. It includes user authentication, profile management, in-app music playback, and a protected admin dashboard to upload and manage albums and tracks. This project helped me sharpen my skills in frontend development, Firebase integration, and real-time data management.
 
 ### 🔹 Corizo Internship Projects
 - **To-Do App**: A task manager built using **HTML, CSS, and JavaScript**.
