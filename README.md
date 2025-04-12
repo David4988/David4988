@@ -42,6 +42,10 @@ A full-featured music streaming web app built using ReactJS and Firebase. It inc
 - **To-Do App**: A task manager built using **HTML, CSS, and JavaScript**.
 - **E-commerce Website**: Developed using **ReactJS** and integrated with **Stripe** for secure payments.
 
+### 🔹 Test Yantra Internship Projects
+- Zomato Clone: A responsive landing page inspired by Zomato, built using HTML, CSS, and TailwindCSS to practice layout design and styling consistency.
+
+- Innovators Hub Music: A complete music streaming app built using ReactJS and Firebase featuring authentication, profile management, music playback, and an admin dashboard for managing albums and tracks.
 ---
 
 ## 🌐 Tech Community
