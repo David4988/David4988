@@ -41,10 +41,6 @@ A full-stack real estate web app powered by **React**, **Supabase**, and **TypeS
 An **Instagram-style clone** built using **ReactJS, Node.js, Appload**.  
 Built for full-stack learning — UI first, chat & comments coming soon. 🔨
 
-### 🔹 Tech Haven (Internship)
-Led a team of beginner devs to build an e-commerce site from scratch.  
-Handled both frontend + backend (Stripe integration, cart logic, team reviews). 💸🧑‍💻
-
 ### 🔹 Innovators Hub Music – [Live Site](https://innovators-hub-music-1bc35.web.app/)
 A complete **music streaming app** made with ReactJS + Firebase.  
 🎧 Features: Auth, admin dashboard, in-app player, album/song uploads.
