@@ -7,7 +7,8 @@ I'm a Pre Final Year at **Panimalar Engineering College**, a hungry learner, and
 
 ## 🛠 Skills & Certifications
 
-- **Languages & Tools**: HTML, CSS, JavaScript, SCSS, ReactJS, TailwindCSS, TypeScript, MongoDB, Firebase, Supabase, GSAP
+- **Languages & Tools**: HTML, CSS, JavaScript, SCSS, ReactJS, TailwindCSS, TypeScript, MongoDB, Firebase, Supabase, GSAP, Python, Pandas, Matplotlib, NumPy
+- **Machine Learning & AI**: Scikit-learn, PyTorch (Basics), HuggingFace Transformers, Streamlit, Data Cleaning, Feature Engineering, Deployment
 - **API Development**: Certified Postman API Fundamentals Student Expert, experienced with **REST API** development & integration
 - **Certifications**:
   - Oracle Cloud Infrastructure 2024 Generative AI Certified Professional
@@ -45,22 +46,27 @@ Built for full-stack learning — UI first, chat & comments coming soon. 🔨
 A complete **music streaming app** made with ReactJS + Firebase.  
 🎧 Features: Auth, admin dashboard, in-app player, album/song uploads.
 
+### 🔹 Employee Salary Prediction App – [Live App](https://employee-salary-prediction-davidson4988.streamlit.app/)  
+A full-stack **ML + Streamlit web app** to classify whether an employee earns >50K or not.  
+🧠 Built using Scikit-learn pipelines, joblib, Streamlit UI, and cleaned real-world data.
+
+📈 Models Used: Logistic Regression, SVM, Random Forest, Deep MLP  
+🛠️ Tools: Scikit-learn, Pandas, NumPy, Matplotlib, Streamlit, Joblib
+
 ### 🔹 PeerHive (In Progress)
-A campus-only social media app with real sentiment tracking using Hugging Face transformers 🤖💬
+A campus-only social media app with real sentiment tracking using Hugging Face transformers 🤖💬  
 🔥 Built using Firebase, React, and Python. Features include:
 
-📥 VibeCheckPanel™ – mood logging UI
-
-📊 EmotionalDamageBoard™ – admin heatmaps & trend analysis
-
+📥 VibeCheckPanel™ – mood logging UI  
+📊 EmotionalDamageBoard™ – admin heatmaps & trend analysis  
 📈 Sentiment pipelines using Hugging Face models (🤗 Transformers FTW!)
 
 ### 🔹 Corizo Internship
-- ✅ To-Do App – HTML, CSS, JS
+- ✅ To-Do App – HTML, CSS, JS  
 - ✅ E-Commerce – ReactJS + Stripe integration
 
 ### 🔹 Test Yantra Internship
-- 🍽️ Zomato Clone – Built with HTML, CSS, TailwindCSS
+- 🍽️ Zomato Clone – Built with HTML, CSS, TailwindCSS  
 - 🎵 Innovators Hub (again!) – Streamlined version with full Firebase backend
 
 ---
@@ -74,9 +80,9 @@ A campus-only social media app with real sentiment tracking using Hugging Face t
 
 ## 🌱 Currently Exploring
 
-- Full-Stack Web Dev (Next.js, Supabase, Firebase)
-- Real-time data with `onSnapshot()` and Firestore
-- Transformer-based NLP with Hugging Face
+- Full-Stack Web Dev (Next.js, Supabase, Firebase)  
+- Real-time data with `onSnapshot()` and Firestore  
+- Transformer-based NLP with Hugging Face  
 - Building **project sprints**, leading teams, and shipping MVPs like a CEO 🚀
 
 ---
